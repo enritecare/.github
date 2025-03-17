@@ -1,0 +1,1 @@
+This Repo Holds the Global PR template for all Repos unless they have their own template which overrides the global template

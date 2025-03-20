@@ -17,11 +17,10 @@ _Choose the emoji that represents the change type in the table above._
 
 - [ ] 🐛 Bug fix  (non-breaking change which fixes an issue)
 - [ ] ✨ New feature  (non-breaking change which adds functionality)
-- [ ] 💥 Breaking change  (fix or feature that would cause existing functionality to not work as expected)
 - [ ] 📁 Internal tooling change  (CircleCi or dev-tools change ect)
 - [ ] ⚠️ Requires manual step (Please list at the end of the checklist)  
-- [ ] 🔄 Refactoring task  
 - [ ] 🚀 Product release  
+- [ ] 💥 Breaking change  (fix or feature that would cause existing functionality to not work as expected)
 
 ---
 
@@ -41,9 +40,9 @@ _For each item, mark **Yes** or **No** and add any additional comments at the en
 - **Have all applicable CircleCI status checks passed and require reviewers have approved the PR?**  
   - [ ] Yes  
   - [ ] No  
-- **Have you addressed any failing security violations, test failures, spelling errors, or any standard checks flagged on this PR?**  
-  - [ ] Yes  
-  - [ ] No  
+- **Have you marked below any failing security violations, test failures, spelling errors, or any standard checks failing on this PR?**  
+  - [ ] Commented below
+  - [ ] Fixed
   - [ ] N/A  
 
 ---
